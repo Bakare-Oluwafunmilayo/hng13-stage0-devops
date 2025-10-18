@@ -25,5 +25,5 @@ This assignment demonstrates practical DevOps skills through deploying a live NG
 - Vscode
   
 
-## Project Status
-[Add your completion status, live URL, or deployment date here]
+Project Status
+completion status:Completed, live URL:http://54.204.83.116/, deployment date:18/10/2025
